@@ -23,7 +23,7 @@ row-gap: 3rem;
 
 `
 export const BlogCard = styled.div`
-  border-radius: 10px;
+  border-radius: 5px;
   // box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   border:1px solid #9cc9e3;
   padding:10px;
