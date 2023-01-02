@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Desktop Application',
-    description: "In my 1+ years working with Leogreat Nig ltd, I assisted in building a range of application, with our recent being a complete Desktop App for Pharmaceutical Shop here in Enugu",
+    description: "In my 1+ years working with Leogreat Nig ltd, I assisted in building a range of application, with our recent being a complete Desktop App for Pharmaceutical Shop here in Enugu, Nigeria.",
     image: '/images/desktop-app.png',
     tags: ['Electron', 'Node JS', 'React', 'Material UI'],
     // source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Netflix Clone',
-    description: "A clone of ",
+    description: "Youtube tutorial clone of Netflix app",
     image: '/images/netflix.png',
     tags: ['React', 'Movie Trailer'],
     source: 'https://google.com',

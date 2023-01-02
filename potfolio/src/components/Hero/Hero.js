@@ -22,7 +22,7 @@ const Hero = () => (
         SQL, Mongo DB,GraphQl API, Restful API and version control (Git, GitHub). He is
         innovative, and has also demonstrated exceptional leadership qualities
         as a teacher and training instructor. He is Keen on taking on new
-        opportunities and challenges in the ICT sector.
+        opportunities and challenges.
       </SectionText>
       <Button target="_blank" onClick={() => (window.location = 'https://github.com/doziem')}>
         Learn More
